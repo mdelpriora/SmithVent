@@ -1,4 +1,5 @@
-/** This script outlines a PID controller for a voice coil actuator in the SmithVent to provide PEEP
+/**
+ * This script outlines a PID controller for a voice coil actuator in the SmithVent to provide PEEP
  * The PID input is a pressure reading from the expiratory line
  * The PID output is current that will be an input to the VCA
  * This code was not tested with the VCA or ventilator and is only a pseudocode for testing and tuning the PID
